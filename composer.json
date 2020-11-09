@@ -1,0 +1,5 @@
+{
+    "require": {
+        "eftec/daoone": "^3.30"
+    }
+}
