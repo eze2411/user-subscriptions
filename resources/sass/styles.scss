@@ -1,0 +1,23 @@
+// Variables
+@import 'variables';
+
+.title-bar {
+  width: 400px;
+  height: 5px;
+  background-color: $purple;
+  margin-bottom: 2em;
+}
+
+.user-list li {
+  background-color: $body-bg !important;
+}
+
+ul li.active {
+  background-color: rgba(103, 49, 143, 0.4) !important;
+  border-bottom: none;
+}
+
+.btn-aw {
+  color: $body-bg;
+  background-color: $purple;
+}
